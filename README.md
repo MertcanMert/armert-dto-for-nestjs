@@ -127,7 +127,7 @@ We love contributions! This project is open for any kind of improvement. Whether
 1.  **Fork** the repository.
 2.  **Clone** your fork to your local machine:
     ```bash
-    git clone https://github.com/your-username/armert-dto-for-nestjs.git
+    git clone https://github.com/MertcanMert/armert-dto-for-nestjs.git
     ```
 3.  **Create a new branch** for your feature or fix:
     ```bash

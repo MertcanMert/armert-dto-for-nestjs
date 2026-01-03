@@ -21,11 +21,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/armert/armert-dto-for-nestjs.git"
+    "url": "git+https://github.com/MertcanMert/armert-dto-for-nestjs.git"
   },
-  "homepage": "https://github.com/armert/armert-dto-for-nestjs#readme",
+  "homepage": "https://github.com/MertcanMert/armert-dto-for-nestjs#readme",
   "bugs": {
-    "url": "https://github.com/armert/armert-dto-for-nestjs/issues"
+    "url": "https://github.com/MertcanMert/armert-dto-for-nestjs/issues"
   },
   "publishConfig": {
     "access": "public"
