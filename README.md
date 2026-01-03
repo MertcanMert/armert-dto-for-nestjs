@@ -3,7 +3,7 @@
 ### 🇹🇷 TANRI TÜRK'Ü KORUSUN VE YÜCELTSİN 🐺
 
 [![NPM Version](https://img.shields.io/npm/v/armert-dto-for-nestjs?style=flat-square&color=blue)](https://www.npmjs.com/package/armert-dto-for-nestjs)
-[![License](https://img.shields.io/npm/l/armert-dto-for-nestjs?style=flat-square&color=red)](https://github.com/armert/armert-dto-for-nestjs/blob/main/LICENSE)
+[![License](https://img.shields.io/npm/l/armert-dto-for-nestjs?style=flat-square&color=red)](https://github.com/MertcanMert/armert-dto-for-nestjs/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/npm/dm/armert-dto-for-nestjs?style=flat-square)](https://www.npmjs.com/package/armert-dto-for-nestjs)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![NestJS](https://img.shields.io/badge/NestJS-10.0+-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -144,7 +144,7 @@ We love contributions! This project is open for any kind of improvement. Whether
 6.  **Open a Pull Request** against the `main` branch.
 
 ### Suggestions?
-If you have an idea but don't know how to implement it, feel free to open a [Discussion](https://github.com/armert/armert-dto-for-nestjs/discussions) or an [Issue](https://github.com/armert/armert-dto-for-nestjs/issues). We are actively looking for feedback to make this the standard DTO library for NestJS e-commerce projects.
+If you have an idea but don't know how to implement it, feel free to open a [Discussion](https://github.com/MertcanMert/armert-dto-for-nestjs/discussions) or an [Issue](https://github.com/MertcanMert/armert-dto-for-nestjs/issues). We are actively looking for feedback to make this the standard DTO library for NestJS e-commerce projects.
 
 ## 📝 License
 
