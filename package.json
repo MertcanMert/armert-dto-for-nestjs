@@ -1,6 +1,6 @@
 {
   "name": "armert-dto-for-nestjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reusable, framework-agnostic DTO package with validation rules for NestJS and TypeScript-based backend applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
